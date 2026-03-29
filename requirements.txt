@@ -1,0 +1,4 @@
+undetected-chromedriver>=3.0.6
+selenium>=4.10.0
+apscheduler>=3.10.1
+PyYAML>=6.0
